@@ -1,2 +1,2 @@
 #  Внимание  !!!
-## Ссылка на Wildlife  __https://rolling-scopes-school.github.io/drusmarkonii-JSFE2021Q1/wildlife/__
+## Ссылка на Wildlife  https://drusmarkonii.github.io/Wildlife/
