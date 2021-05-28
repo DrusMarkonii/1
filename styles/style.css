@@ -352,39 +352,3 @@ li {
 .header-item:hover {
   opacity: 0.8;
 }
-
-@media (max-width: 1200px) {
-  .wrapper {
-    max-width: 970px;
-  }
-  .footer-nav-list {
-    flex-direction: column;
-  }
-}
-
-@media (max-width: 992px) {
-  .wrapper {
-    max-width: 750px;
-  }
-  .article-card {
-    margin: 20px auto;
-  }
-  .article-card-image {
-    width: 90%;
-  }
-  .carousel-pic {
-    margin-bottom: 70px;
-  }
-  .footer-nav-list {
-    flex-direction: column;
-  }
-  .footer-nav-link {
-    margin-right: 0;
-  }
-}
-
-@media (max-width: 767px) {
-  .wrapper {
-    max-width: none;
-  }
-}
