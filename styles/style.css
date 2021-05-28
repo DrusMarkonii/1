@@ -354,7 +354,7 @@ li {
 }
 @media (max-width: 1200px) {
   .wrapper {
-    max-width: 970px;
+    max-width: 971px;
   }
   .footer-nav-list {
     flex-direction: column;
